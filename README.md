@@ -10,7 +10,7 @@ Currently focused on creating polished, meaningful projects across web, mobile, 
 
 | Project | Description |
 |---------|-------------|
-| [OfferTables](https://github.com/jameslreyes/offertables) | Organize, track, and compare job offers side by side. |
+| [Offer Tables](https://github.com/jameslreyes/offertables) | Organize, track, and compare job offers side by side. |
 | [Sessionr](https://github.com/jameslreyes/sessionr) | Log, track, and manage music sessions and creative work. |
 | [Yapoll](https://github.com/jameslreyes/yapoll) | Lightweight micro-poll app for fast group decisions. |
 | [The Reyes Vault](https://github.com/jameslreyes/the-reyes-vault) | Digital vault for preserving family memories. |
@@ -51,7 +51,7 @@ Currently focused on creating polished, meaningful projects across web, mobile, 
 
 ## 🎯 2025 Goals
 
-- Ship and publicly launch **OfferTables, Yapoll, and Sessionr**
+- Ship and publicly launch **Offer Tables, Yapoll, and Sessionr**
 - Break into a backend or full stack engineering role
 - Keep building apps and keep solving problems
 
