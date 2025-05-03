@@ -1,8 +1,8 @@
 # Hey, I'm James 👋
 
-I focus on building meaningful, useful apps and learn whatever it takes to ship.
+I build useful, purposeful apps and learn whatever it takes to ship.
 
-Currently focused on creating polished, meaningful projects across web, mobile, and backend.
+Currently creating polished projects across web, mobile, and backend.
 
 ---
 
