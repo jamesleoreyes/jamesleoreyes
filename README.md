@@ -2,7 +2,7 @@
 
 I build useful, purposeful apps and learn whatever it takes to ship.
 
-Currently creating polished projects across web, mobile, and backend.
+Currently working on polished projects across web, mobile, and backend.
 
 ---
 
