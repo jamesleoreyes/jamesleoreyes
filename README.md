@@ -29,6 +29,7 @@ Currently working on polishing projects across web, mobile, and backend.
 **Backend**  
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)](https://expressjs.com/)
+[![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff)](https://supabase.com/)
 
 **Frontend / UI**  
