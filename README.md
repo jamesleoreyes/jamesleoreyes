@@ -23,8 +23,8 @@ Currently focused on creating polished, meaningful projects across web, mobile, 
 **Languages**  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 
 **Backend**  
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)](https://nodejs.org/)
