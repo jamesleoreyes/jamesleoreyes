@@ -1,6 +1,6 @@
 # Hey, I'm James 👋
 
-I build useful, purposeful apps and learn whatever it takes to ship.
+I build useful, purposeful apps and learn everything I can along the way.
 
 Currently working on polishing projects across web, mobile, and backend.
 
