@@ -1,6 +1,6 @@
 # Hey, I'm James 👋
 
-I build **real apps that solve real problems** and learn whatever it takes to ship.
+I build real apps that solve real problems and learn whatever it takes to ship.
 
 Currently focused on creating polished, meaningful projects across web, mobile, and backend.
 
