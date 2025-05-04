@@ -43,6 +43,7 @@ Currently working on polishing projects across web, mobile, and backend.
 [![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=fff)](https://railway.app/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)](https://vercel.com/)
 [![Azure](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jameslreyes/b01658e06ae70ffb6a21c6de9d96f8f8/raw/3dc97ce0728cfa0be294758ff2169b07813d686c/azure-badge.json)](https://azure.microsoft.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=fff)](https://heroku.com/)
 
 **Other**  
 ![CI/CD](https://img.shields.io/badge/-CI/CD-555)
