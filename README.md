@@ -34,10 +34,10 @@ Currently working on polishing projects across web, mobile, and backend.
 
 **Frontend / UI**  
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)](https://reactnative.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)](https://nextjs.org/)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
-[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)](https://reactnative.dev/)
 
 **Infra & DevOps**  
 [![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=fff)](https://railway.app/)
