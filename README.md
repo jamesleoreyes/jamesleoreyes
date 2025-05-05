@@ -24,7 +24,6 @@ Currently working on polishing projects across web, mobile, and backend.
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 
 **Backend**  
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)](https://nodejs.org/)
@@ -37,12 +36,12 @@ Currently working on polishing projects across web, mobile, and backend.
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)](https://nextjs.org/)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
-[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)](https://reactnative.dev/)
 
 **Infra & DevOps**  
 [![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=fff)](https://railway.app/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)](https://vercel.com/)
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azuredevops&logoColor=fff)](https://azure.microsoft.com/)
+[![Azure](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jameslreyes/b01658e06ae70ffb6a21c6de9d96f8f8/raw/3dc97ce0728cfa0be294758ff2169b07813d686c/azure-badge.json)](https://azure.microsoft.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=fff)](https://heroku.com/)
 
 **Other**  
 ![CI/CD](https://img.shields.io/badge/-CI/CD-555)
