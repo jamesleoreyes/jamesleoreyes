@@ -6,15 +6,16 @@ Currently working on polishing projects across web, mobile, and backend.
 
 ---
 
-## 🚀 Projects
+## 🚀 Current Projects
 
-| Project | Description |
-|---------|-------------|
-| [Portfolio](https://github.com/jameslreyes/portfolio) | Personal site showcasing my projects and dev journey. |
-| [Offer Tables](https://github.com/jameslreyes/offertables) | Organize, track, and compare job offers side by side. |
-| [Sessionr](https://github.com/jameslreyes/sessionr) | Log, track, and manage music sessions and creative work. |
-| [Yapoll](https://github.com/jameslreyes/yapoll) | Lightweight micro-poll app for fast group decisions. |
-| [The Reyes Vault](https://github.com/jameslreyes/the-reyes-vault) | Digital vault for preserving family memories. |
+| Project | Description | MVP Progress | Status |
+|---------|-------------|--------------|--------|
+| [Portfolio](https://github.com/jameslreyes/portfolio) | Personal site showcasing my projects and dev journey. | ░░░░░░░░░░ <br> 1% | 💤 Not Started |
+| [Offer Tables](https://github.com/jameslreyes/offertables) | Organize, track, and compare job offers side by side. | █░░░░░░░░░ <br> 10% | 🚧 In Progress (Backend Started) |
+| [Sessionr](https://github.com/jameslreyes/sessionr) | Log, track, and manage music sessions and creative work. | █░░░░░░░░░ <br> 10% | 🚧 In Progress (Rebuilding for new scope) |
+| [Yapoll](https://github.com/jameslreyes/yapoll) | Lightweight micro-poll app for fast group decisions. | ░░░░░░░░░░ <br> 3% | 🛠️ Scaffolded |
+| [The Reyes Vault](https://github.com/jameslreyes/the-reyes-vault) | Digital vault for preserving family memories. | ░░░░░░░░░░ <br> 0% | 💤 Not Started |
+
 
 ---
 
