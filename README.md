@@ -53,7 +53,7 @@ Currently starting work on projects across web, mobile, and backend.
 ## 🎯 2025 Goals
 
 - Ship and launch **The Reyes Vault, Offer Tables, Yapoll, and Sessionr**
-- Break into a backend or full stack engineering role
+- Break into a full stack engineering role
 - Keep building apps and keep solving problems
 
 ---
