@@ -10,11 +10,11 @@ Currently starting work on projects across web, mobile, and backend.
 
 | Project | Description | MVP Progress | Status |
 |---------|-------------|--------------|--------|
-| [Portfolio](https://github.com/jameslreyes/portfolio) | Personal site showcasing my projects and dev journey. | ![Progress 1%](https://geps.dev/progress/1) | 💤 Not Started |
-| [Offer Tables](https://github.com/jameslreyes/offertables) | Organize, track, and compare job offers side by side. | ![Progress 10%](https://geps.dev/progress/10) | 🚧 In Progress |
-| [Sessionr](https://github.com/jameslreyes/sessionr) | Music session logger & creative organizer. | ![Progress 10%](https://geps.dev/progress/10) | 🚧 Rebuilding |
-| [Yapoll](https://github.com/jameslreyes/yapoll) | Mobile polling app for fast group decisions. | ![Progress 3%](https://geps.dev/progress/3) | 🛠️ Scaffolded |
-| [The&nbsp;Reyes&nbsp;Vault](https://github.com/jameslreyes/the-reyes-vault) | Digital vault for preserving family memories. | ![Progress 23%](https://geps.dev/progress/23) | 🚧 In Progress |
+| [Portfolio](https://github.com/jamesleoreyes/portfolio) | Personal site showcasing my projects and dev journey. | ![Progress 1%](https://geps.dev/progress/1) | 💤 Not Started |
+| [Offer Tables](https://github.com/jamesleoreyes/offertables) | Organize, track, and compare job offers side by side. | ![Progress 10%](https://geps.dev/progress/10) | 🚧 In Progress |
+| [Sessionr](https://github.com/jamesleoreyes/sessionr) | Music session logger & creative organizer. | ![Progress 10%](https://geps.dev/progress/10) | 🚧 Rebuilding |
+| [Yapoll](https://github.com/jamesleoreyes/yapoll) | Mobile polling app for fast group decisions. | ![Progress 3%](https://geps.dev/progress/3) | 🛠️ Scaffolded |
+| [The&nbsp;Reyes&nbsp;Vault](https://github.com/jamesleoreyes/the-reyes-vault) | Digital vault for preserving family memories. | ![Progress 23%](https://geps.dev/progress/23) | 🚧 In Progress |
 
 
 ---
@@ -60,7 +60,7 @@ Currently starting work on projects across web, mobile, and backend.
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/james-reyes-42a22513b) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jamesleoreyes) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=globe&logoColor=fff)](https://jameslreyes.com) 
 
 ---
