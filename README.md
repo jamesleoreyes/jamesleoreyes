@@ -48,7 +48,7 @@ Currently starting work on projects across web, mobile, and backend.
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=fff)](https://heroku.com/)
 
 **Other**  
-![CI/CD](https://img.shields.io/badge/-CI/CD-555)
+[![CI/CD](https://img.shields.io/badge/-CI/CD-555)](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F61)
 
 ---
