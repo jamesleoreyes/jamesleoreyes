@@ -36,7 +36,7 @@ Currently starting work on projects across web, mobile, and backend.
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
-[![shadcn/ui](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/d58b831d01da290ac5354caa5034f125/raw/91d64b3e4ab7180883822e7321b718edf9280a06/shadcnui.json)](https://ui.shadcn.com/)
+[![shadcn/ui](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/d58b831d01da290ac5354caa5034f125/raw/8a20a7220087c8ec3375e1b58e0db1fa71e1d15c/shadcnui.json)](https://ui.shadcn.com/)
 
 **Full Stack**  
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)](https://nextjs.org/)
