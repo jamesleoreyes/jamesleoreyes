@@ -63,7 +63,7 @@ Currently starting work on projects across web, mobile, and backend.
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jamesleoreyes) 
+[![LinkedIn](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/65f415e75711a440bd2d426e4248562d/raw/e908f65b8f967b2a20cb147778561ee24f231421/linkedin.json)](https://www.linkedin.com/in/jamesleoreyes) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=globe&logoColor=fff)](https://jameslreyes.com) 
 
 ---
