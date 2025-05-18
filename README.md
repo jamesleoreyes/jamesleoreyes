@@ -34,9 +34,12 @@ Currently starting work on projects across web, mobile, and backend.
 
 **Frontend / UI**  
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)](https://nextjs.org/)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/d58b831d01da290ac5354caa5034f125/raw/95fb0094fb999fb5c68bea20e95d1b1f47f7b3d3/shadcnui.json)](https://ui.shadcn.com/)
+
+**Full Stack**  
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)](https://nextjs.org/)
 
 **Infra & DevOps**  
 [![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=fff)](https://railway.app/)
