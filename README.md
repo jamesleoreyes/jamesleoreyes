@@ -8,7 +8,7 @@ Currently starting work on projects across web, mobile, and backend.
 
 ## ⭐ Featured Project
 
-### [The Reyes Vault](https://demo.thereyesavault.com)
+### [The Reyes Vault](https://demo.thereyesvault.com)
 
 > A digital vault for preserving family memories. Forever, searchable, and safe in the cloud.
 
