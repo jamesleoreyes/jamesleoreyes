@@ -82,7 +82,6 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 - Break into a full stack engineering role
 - Keep building apps and keep solving problems
 
----
 
 ## 📬 Let's Connect
 
