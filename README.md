@@ -71,7 +71,7 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=fff)](https://heroku.com/)
 
 **Other**  
-[![CI/CD](https://img.shields.io/badge/-CI/CD-555)](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+[![CI/CD](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/fee23e3c4629fad6cf53287b265eefa6/raw/4823882140edaf92f7e572795b86c86e9bd6246f/cicd.json)](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
 [![REST APIs](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/89375ef9787b0a6c9a942ffb3e99a13f/raw/b6363b73ef6e170dace74882c1d6840594145014/restapis.json)](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 
 ---
