@@ -12,7 +12,7 @@ Currently starting work on projects across web, mobile, and backend.
 
 *A digital vault for preserving family memories. Forever, searchable, and safe in the cloud.*
 
-#### **🚀 MVP Progress: 23%** | **🚧 In Progress**
+#### **🚀 MVP Progress: 25%** | **🚧 In Progress**
 
 A full-stack Next.js application for securely uploading, organizing, and searching digitized family memories like photos, VHS tapes, and audio recordings. Built with modern technologies including TypeScript, Supabase, and Cloudflare R2.
 
@@ -38,7 +38,7 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 | [Offer Tables](https://github.com/jamesleoreyes/offertables)                  | Organize, track, and compare job offers side by side. | ![Progress 10%](https://geps.dev/progress/10) | 🚧 In Progress |
 | [Sessionr](https://github.com/jamesleoreyes/sessionr)                         | Music session logger & creative organizer.            | ![Progress 10%](https://geps.dev/progress/10) | 🚧 Rebuilding  |
 | [Yapoll](https://github.com/jamesleoreyes/yapoll)                             | Mobile polling app for fast group decisions.          | ![Progress 3%](https://geps.dev/progress/3)   | 🛠️ Scaffolded  |
-| [The&nbsp;Reyes&nbsp;Vault](https://github.com/jamesleoreyes/the-reyes-vault) | Digital vault for preserving family memories.         | ![Progress 23%](https://geps.dev/progress/23) | 🚧 In Progress |
+| [The&nbsp;Reyes&nbsp;Vault](https://github.com/jamesleoreyes/the-reyes-vault) | Digital vault for preserving family memories.         | ![Progress 25%](https://geps.dev/progress/25) | 🚧 In Progress |
 
 ---
 
