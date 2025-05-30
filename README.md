@@ -12,7 +12,7 @@ Currently starting work on projects across web, mobile, and backend.
 
 *A digital vault for preserving family memories. Forever, searchable, and safe in the cloud.*
 
-#### **🚀 MVP Progress: 25%** | **🚧 In Progress**
+#### **🚀 MVP Progress: 34%** | **🚧 In Progress (Phase 2)**
 
 A full-stack Next.js application for securely uploading, organizing, and searching digitized family memories like photos, VHS tapes, and audio recordings. Built with modern technologies including TypeScript, Supabase, and Cloudflare R2.
 
