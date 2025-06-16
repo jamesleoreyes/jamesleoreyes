@@ -37,7 +37,6 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 | [Portfolio](https://github.com/jamesleoreyes/portfolio)                       | Personal site showcasing my projects and dev journey. | ![Progress 1%](https://geps.dev/progress/1)   | 💤 Not Started |
 | [Offer Tables](https://github.com/jamesleoreyes/offertables)                  | Organize, track, and compare job offers side by side. | ![Progress 10%](https://geps.dev/progress/10) | 🚧 In Progress |
 | [Sessionr](https://github.com/jamesleoreyes/sessionr)                         | Music session logger & creative organizer.            | ![Progress 10%](https://geps.dev/progress/10) | 🚧 Rebuilding  |
-| [Yapoll](https://github.com/jamesleoreyes/yapoll)                             | Mobile polling app for fast group decisions.          | ![Progress 3%](https://geps.dev/progress/3)   | 🛠️ Scaffolded  |
 | [The&nbsp;Reyes&nbsp;Vault](https://github.com/jamesleoreyes/the-reyes-vault) | Digital vault for preserving family memories.         | ![Progress 36%](https://geps.dev/progress/36) | 🚧 In Progress (Phase 4) |
 
 ---
