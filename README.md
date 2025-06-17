@@ -10,7 +10,7 @@ Currently starting work on projects across web, mobile, and backend.
 
 ### [The Reyes Vault](https://demo.thereyesvault.com)
 
-*A digital vault for preserving family memories. Forever, searchable, and safe in the cloud.*
+_A digital vault for preserving family memories. Forever, searchable, and safe in the cloud._
 
 #### **🚀 MVP Progress: 36%** | **🚧 In Progress (Phase 4)**
 
@@ -32,11 +32,11 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 
 ## 🚀 Current Projects
 
-| Project                                                                       | Description                                           | MVP Progress                                  | Status         |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------- | -------------- |
-| [Portfolio](https://github.com/jamesleoreyes/portfolio)                       | Personal site showcasing my projects and dev journey. | ![Progress 1%](https://geps.dev/progress/1)   | 💤 Not Started |
-| [Offer Tables](https://github.com/jamesleoreyes/offertables)                  | Organize, track, and compare job offers side by side. | ![Progress 10%](https://geps.dev/progress/10) | 🚧 In Progress |
-| [Sessionr](https://github.com/jamesleoreyes/sessionr)                         | Music session logger & creative organizer.            | ![Progress 10%](https://geps.dev/progress/10) | 🚧 Rebuilding  |
+| Project                                                                       | Description                                           | MVP Progress                                  | Status                   |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------- | ------------------------ |
+| [Portfolio](https://github.com/jamesleoreyes/portfolio)                       | Personal site showcasing my projects and dev journey. | ![Progress 15%](https://geps.dev/progress/15) | 🚧 In Progress           |
+| [Offer Tables](https://github.com/jamesleoreyes/offertables)                  | Organize, track, and compare job offers side by side. | ![Progress 10%](https://geps.dev/progress/10) | 🚧 In Progress           |
+| [Sessionr](https://github.com/jamesleoreyes/sessionr)                         | Music session logger & creative organizer.            | ![Progress 10%](https://geps.dev/progress/10) | 🚧 Rebuilding            |
 | [The&nbsp;Reyes&nbsp;Vault](https://github.com/jamesleoreyes/the-reyes-vault) | Digital vault for preserving family memories.         | ![Progress 36%](https://geps.dev/progress/36) | 🚧 In Progress (Phase 4) |
 
 ---
@@ -85,5 +85,5 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/65f415e75711a440bd2d426e4248562d/raw/e908f65b8f967b2a20cb147778561ee24f231421/linkedin.json)](https://www.linkedin.com/in/jamesleoreyes) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=globe&logoColor=fff)](https://jameslreyes.com) 
+[![LinkedIn](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/65f415e75711a440bd2d426e4248562d/raw/e908f65b8f967b2a20cb147778561ee24f231421/linkedin.json)](https://www.linkedin.com/in/jamesleoreyes)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=globe&logoColor=fff)](https://jameslreyes.com)
