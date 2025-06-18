@@ -1,4 +1,4 @@
-![JLR Logo](public/jlr.png)
+[![JLR Logo](public/jlr.png)](https://jamesleoreyes.com)
 
 # Hey, I'm James 👋
 
