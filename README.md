@@ -1,3 +1,5 @@
+![JLR Logo](public/jlr.png)
+
 # Hey, I'm James 👋
 
 I build useful, purposeful apps and learn everything I can along the way.
