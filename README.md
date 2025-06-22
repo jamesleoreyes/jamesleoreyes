@@ -52,6 +52,7 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 
 **Backend**  
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)](https://nodejs.org/)
+[![Deno](https://img.shields.io/badge/-Deno-000000?logo=deno&logoColor=fff)](https://deno.com/)
 [![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)](https://expressjs.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff)](https://supabase.com/)
@@ -79,7 +80,8 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 
 ## 🎯 2025 Goals
 
-- Ship MVP for **The Reyes Vault**
+- **Portfolio V1**
+- MVP for **The Reyes Vault**
 - Break into a full stack engineering role
 - Keep building apps and keep solving problems
 
