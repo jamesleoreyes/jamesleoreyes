@@ -55,7 +55,7 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 [![CSS](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/5c3c3328c12f7210e6bf9b21ae263451/raw/ebabe573d27618edf106555be5743b5d1a7352db/css.json)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
 [![shadcn/ui](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/d58b831d01da290ac5354caa5034f125/raw/8a20a7220087c8ec3375e1b58e0db1fa71e1d15c/shadcnui.json)](https://ui.shadcn.com/)
 [![Vite](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/ebb570f336b0de81a3ec31ae1b05628b/raw/9fd44f52f9b075569a72d51cfa0b996a2b0ea911/vite.json)](https://vite.dev/)
 
@@ -75,7 +75,7 @@ A full-stack Next.js application for securely uploading, organizing, and searchi
 
 **Cloud & Infrastructure**  
 [![Azure](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jamesleoreyes/b01658e06ae70ffb6a21c6de9d96f8f8/raw/3dc97ce0728cfa0be294758ff2169b07813d686c/azure-badge.json)](https://azure.microsoft.com/)
-[![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=fff)](https://www.cloudflare.com/products/r2/)
+[![Cloudflare R2](https://img.shields.io/badge/-Cloudflare%20R2-F38020?logo=cloudflare&logoColor=fff)](https://www.cloudflare.com/products/r2/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)](https://vercel.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=fff)](https://www.heroku.com/)
 [![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=fff)](https://railway.app/)
